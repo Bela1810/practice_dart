@@ -20,16 +20,7 @@ Para ejecutar el proyecto, usa el siguiente comando en la terminal:
 dart run bin/main.dart
 ```
 
-## 🔧 Pruebas
 
-Para ejecutar las pruebas unitarias, utiliza:
 
-```sh
-dart test
-```
-
----
-
-¡Diviértete programando en Dart! 🚀
 
 
