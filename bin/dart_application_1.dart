@@ -24,6 +24,8 @@ void main(){
   //Simular un evento de like del post
   imagePost.like();
 
+  //Cambios
+
   //Simulador comentario
   videoPost.addComment('Buenas');
   videoPost.addComment('Otro comentario');
