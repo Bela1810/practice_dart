@@ -13,7 +13,7 @@ const String feedMock = '''
       "id": 2,
       "author": "Belaa",
       "content": "Buenas Tuto breve",
-      "videoUrl:" "videoUrl"
+      "videoUrl": "videoUrl",
       "durationInSeconds": 300,
       "type": "video"
     }
